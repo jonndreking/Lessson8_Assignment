@@ -1,6 +1,6 @@
 ********************************************************************************
 Project Name:  Recipe Display Application - Extra Credit Assignment  (+4 points)
-Author: 
-Date:  
+Author: Jonndre King
+Date:  11/12/15
 
 ********************************************************************************
